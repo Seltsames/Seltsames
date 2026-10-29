@@ -1,6 +1,6 @@
--  Hi, My name is Andres or if you find me on internet i´m @Seltsames, i'm full stack web developer, atually developing Saas is my path 👌
--  Here you will find some Messy projects, the interestings one are private, so sorry but if you want to see some good code, please get in touch!
--  Im currently learning Docker and Kubernets, you know, we are allways learning someting new :D
+-  Hi, My name is Andres or if you find me on internet i´m @Seltsames, i'm full stack developer, for anything from web, desktop and electronics pretty fan of all kind of tech! 👌
+-  Here you will find some Messy projects, the interestings one are private, so sorry but if you want to see some code, please get in touch!
+-  Im currently on programming micrcontrollers and intecrations, you know, we are allways learning someting new :D
 -  How to reach me ✨ andresfprojas@hotmail.com ✨ write something related to github on the subject i will apreciate it
 
 <!---
