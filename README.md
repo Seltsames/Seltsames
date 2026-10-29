@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="mailto:andresfprojas@hotmail.com"><img src="https://img.shields.io/badge/Email-andresfprojas%40hotmail.com-0078D4?style=flat-square&logo=maildotru&logoColor=white" alt="Email"></a>
-  <img src="https://komarev.com/ghpvc/?username=Seltsames&style=flat-square&color=blueviolet" alt="Profile views">
 </p>
 
 ---
@@ -17,7 +16,9 @@
 
 ### 🚗 Currently building
 
-**A retro car radio for a classic 90s Citroën.** An ESP32 receives Bluetooth audio from the phone and drives a PCM5102 DAC and TPA3116D2 amps. It has a dot-matrix style OLED interface in French and the original steering-wheel buttons, rewired as resistor ladders. lot of messy things because i love classic cars! if you share this love get in touch we can build interesting things!
+**A retro car radio for a classic 90s Citroën.** An ESP32 receives Bluetooth audio from the phone and drives a PCM5102 DAC and TPA3116D2 amps. It has a dot-matrix style OLED interface in French and the original steering-wheel buttons, rewired as resistor ladders. lot of messy things because i love classic cars and want to keep aestethics and ✨ **personality** ✨! if you share this love get in touch we can build interesting things! 
+
+-  The what i learned doing this are public repos, so you can take a look i your planning to use one of these screens **lilygo-amoled-143-minimal**
 
 ###  Toolbox the most used altough...
 
