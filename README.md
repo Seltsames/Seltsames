@@ -8,24 +8,24 @@
 
 ---
 
-### 🧑‍💻 About me
+###  About me
 
-- 🌐 You will finde me online by **@Seltsames**
-- 🛠️ I love to build things end to end: web apps, desktop software and hardware
-- 🔌 Right now I'm deep into **microcontrollers** and connecting code to the real world. We're always learning something new :D
+-  You will finde me online by **@Seltsames**
+-  I love to build things end to end: web apps, desktop software and hardware
+-  Right now I'm deep into **microcontrollers** and connecting code to the real world. We're always learning something new :D
 - 🔒 What you'll find here is mostly messy experiments. The interesting projects are private, so if you'd like to see some code, get in touch!
 
 ### 🚗 Currently building
 
 **A retro car radio for a classic 90s Citroën.** An ESP32 receives Bluetooth audio from the phone and drives a PCM5102 DAC and TPA3116D2 amps. It has a dot-matrix style OLED interface in French and the original steering-wheel buttons, rewired as resistor ladders. lot of messy things because i love classic cars! if you share this love get in touch we can build interesting things!
 
-### 🧰 Toolbox
+###  Toolbox the most used altough...
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,cpp,arduino,git,docker,vscode&theme=dark" alt="Tech I use">
 </p>
 
-### 📫 Reach me
+###  Reach me
 
 ✨ **andresfprojas@hotmail.com** ✨
 Please mention GitHub in the subject. I'll appreciate it!
