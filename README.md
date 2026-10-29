@@ -9,7 +9,7 @@
 
 ###  About me
 
--  You will finde me online by **@Seltsames**
+-  You will find me online by **@Seltsames**
 -  I love to build things end to end: web apps, desktop software and hardware
 -  Right now I'm deep into **microcontrollers** and connecting code to the real world. We're always learning something new :D
 - 🔒 What you'll find here is mostly messy experiments. The interesting projects are private, so if you'd like to see some code, get in touch!
@@ -23,7 +23,7 @@
 ###  Toolbox at least the most used...
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,cpp,arduino,git,docker,vscode&theme=dark" alt="Tech I use">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,linux,css,nodejs,python,cpp,arduino,git,docker,vscode&theme=dark" alt="Tech I use">
 </p>
 
 ###  Reach me
