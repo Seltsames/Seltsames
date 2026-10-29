@@ -20,7 +20,7 @@
 
 -  The what i learned doing this are public repos, so you can take a look i your planning to use one of these screens **lilygo-amoled-143-minimal**
 
-###  Toolbox the most used altough...
+###  Toolbox at least the most used...
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,python,cpp,arduino,git,docker,vscode&theme=dark" alt="Tech I use">
